@@ -1,12 +1,17 @@
 ---
-description: "Hallo! If you're reading this, you probably want to learn or check out some things about the code I've been using for some Discord Bots. I'm no pro, but here's what I know. Cheers. \uD83C\uDF7B"
+description: >-
+  Tigglesbot is a node.js project I made for Discord, and uses the DiscordJS
+  API.
 ---
 
-# Tiggles ツ  Projects
+# TigglesBot
 
-## Start
+## Getting Started
 
-Becoming a super hero is a fairly straight forward process:
+Here's some important links: 
+
+1. [DiscordJs](https://discord.js.org/#/docs/main/stable/general/welcome) Docs
+2. [Node School](https://nodeschool.io/) 
 
 ```
 $ give me super-powers
