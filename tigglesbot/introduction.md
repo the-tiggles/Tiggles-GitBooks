@@ -4,7 +4,7 @@ description: >-
   API.
 ---
 
-# TigglesBot
+# Introduction
 
 ## Getting Started
 

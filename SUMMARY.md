@@ -4,7 +4,7 @@
 
 ## TigglesBot
 
-* [TigglesBot](tigglesbot/tigglesbot.md)
+* [Introduction](tigglesbot/introduction.md)
 
 ## TigglesTunes
 
